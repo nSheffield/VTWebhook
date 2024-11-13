@@ -115,3 +115,5 @@ You can find the FAQ [here](./FAQ.md).
 
 # Contact:
 Join the [Retro Engine Modding Discord Server](https://dc.railgun.works/retroengine) for any extra questions you may need to know about the decompilation or modding it.
+
+just reminding you all I still have access to this
